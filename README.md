@@ -22,7 +22,7 @@ The packaging options are based on predefined bag sizes (1g, 2g, 3g, 5g, 10g, 20
 
 ## Getting Started
 
-To run this script, you need Python installed on your machine. Follow these steps:
+To run this script, **YOU NEED [PYTHON](https://www.python.org/downloads/) INSTALLED** on your machine. Follow these steps:
 
 1. Clone this repository to your local machine.
 2. Open your terminal and navigate to the project directory.
