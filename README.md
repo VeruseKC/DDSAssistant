@@ -1,4 +1,4 @@
-# Drug Dealer Simulator Packaging Helper
+# Drug Dealer Simulator Assistant
 
 This Python script is designed to assist in the efficient packaging of orders in the context of a Drug Dealer Simulator game. It simplifies the process of managing client orders, calculating optimal packaging configurations, and maintaining an order history.
 
